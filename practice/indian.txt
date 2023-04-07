@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 we indians
+=======
+are brothers and sisters
+>>>>>>> devGanesh
